@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/oorthdeveloper/Desktop/Flutter/weatherapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/oorthdeveloper/Desktop/weatherapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/oorthdeveloper/Desktop/Flutter/weatherapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/oorthdeveloper/Desktop/weatherapp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
